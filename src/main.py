@@ -3,6 +3,7 @@ def main():
     print("Line 2")
     print("Line 42")
     print("Line 55")
+    print("VS code is GROSS!!!!!!!")
 
 if __name__ == "__main__":
     main()
